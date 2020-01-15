@@ -189,4 +189,4 @@ Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 
 ## Contato
 
-Rocketseat - [Github](https://github.com/marcusvbda)
+Marcus Vinicius Bassalobre de Assis - [Github](https://github.com/marcusvbda)

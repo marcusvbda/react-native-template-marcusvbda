@@ -11,6 +11,13 @@ export const Nav = styled.View`
     margin-top: 30px;
 `;
 
+
+export const Code = styled.View`
+    padding: 10px;
+    align-self: center;
+    overflow: hidden;
+`;
+
 export const NavItem = styled.TouchableOpacity.attrs({
     borderTopColor: Colors.contrast
 })`

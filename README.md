@@ -42,7 +42,7 @@ Antes de seguirmos para as configurações e uso do template, é ideal que você
 A estrutura de arquivos está da seguinte maneira:
 
 ```bash
-rocketseat-basic
+
 ├── src/
 │   ├── config/
 │   │   └── ReactotronConfig.js
